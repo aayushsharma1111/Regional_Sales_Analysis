@@ -13,13 +13,9 @@ Sales teams often lack a clear, data-driven understanding of regional performanc
 
 <img width="1027" height="583" alt="Screenshot 2026-07-14 at 7 26 54 AM" src="https://github.com/user-attachments/assets/b1556114-f70a-4571-a9b4-82c60e7e29a5" />
 
-## Excel Sheet
-- The Excel file provided in the repository is used in the project.
-
-## Files Included
-- Detailed reports
-- Code files
-- Documentation on analytics methodologies
-- Visualizations and dashboards
-
-
+## Recommendations
+- Seasonal Promotions: Launch recovery campaigns in April and amplify January offers to smooth revenue swings.
+- SKU Optimization: Double down on top products 26 & 25 and re-evaluate pricing or phase out low‑margin SKUs.
+- Channel Expansion: Incentivize Export partnerships for high margins and introduce volume deals in Wholesale.
+- Regional Investment: Replicate California’s success in other regions and boost marketing in the Northeast & Midwest.
+- Margin Monitoring: Flag orders below 80 % margin and analyse cost drivers to uplift underperforming segments.
